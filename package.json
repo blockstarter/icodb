@@ -1,0 +1,24 @@
+{
+  "name": "icodb",
+  "version": "0.0.2",
+  "description": "ICOdb api for developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blockstarter/icodb.git"
+  },
+  "keywords": [
+    "blockchain",
+    "blockstarter",
+    "ico"
+  ],
+  "author": "blockstarter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blockstarter/icodb/issues"
+  },
+  "homepage": "https://github.com/blockstarter/icodb#readme"
+}
